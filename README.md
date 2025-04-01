@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-As a researcher in the field of computer vision, I have worked on various topics including object detection and image generation. Currently, my research is focused on 3D reconstruction, particularly Neural Radiance Fields (NeRF).  
+As a researcher in the field of computer vision, I have worked on various topics including object detection and image generation. Currently, my research is focused on 3D reconstruction, particularly Structure-from-Motion (SfM) and Neural Radiance Fields (NeRF).  
 
 ---
 
