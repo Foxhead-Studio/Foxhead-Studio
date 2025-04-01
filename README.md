@@ -1,7 +1,6 @@
 # 👨‍💻 Woonyoung Baek (백운영)
 
 📧 Email: whitecl1031@naver.com  
-📱 Phone: +82-10-4280-1915  
 🎓 M.S. in Computer Engineering @ Inha University (Feb 2016 – Feb 2025)  
 🔬 Advisor: Prof. Sanggil Kang  
 📝 Blogs: [Velog](https://velog.io/@whitecl1031/posts) | [Tistory](https://foxheadstudio.tistory.com/)
