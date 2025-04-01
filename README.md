@@ -85,5 +85,4 @@ As a researcher in the field of computer vision, I have worked on various topics
 ## 📫 Contact & References
 
 - **Prof. Sanggil Kang** – sgang@inha.ac.kr  
-- **Prof. Sunwoo Lee** – sunwool@inha.ac.kr  
 - **Dr. Young-Hoon Yang** – yhyang@kriso.re.kr
