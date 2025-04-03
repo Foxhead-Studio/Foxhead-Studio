@@ -1,7 +1,7 @@
 # 👨‍💻 Woonyoung Baek (백운영)
 
 📧 Email: whitecl1031@naver.com  
-🎓 M.S. in Computer Engineering @ Inha University (Feb 2016 – Feb 2025)  
+🎓 B.S. & M.S. in Computer Engineering @ Inha University (Feb 2016 – Feb 2025)  
 🔬 Advisor: Prof. Sanggil Kang  
 📝 Blogs: [Velog](https://velog.io/@whitecl1031/posts) | [Tistory](https://foxheadstudio.tistory.com/)
 
@@ -23,9 +23,9 @@ As a researcher in the field of computer vision, I have worked on various topics
 
 ## 🔬 Research Projects
 
-**AI-based Monitoring System in Mobile Environment**  
+**AI-based Maritime Monitoring System in Mobile Environment**  
 *(Korea Ministry of National Defense, IITP, Feb 2023 – Nov 2024)*  
-- Developed DL model to detect ships and predict types/movement.  
+- Developed DL model to detect ships and predict types and orientation.  
 - Designed inpainting networks for ships occluded by obstacles.
 
 ---
